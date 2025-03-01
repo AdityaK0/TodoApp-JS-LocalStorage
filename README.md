@@ -1,8 +1,7 @@
 # TodoApp-JS-LocalStorage
 
 
-# Features is added as list item in todo list click on the live github page link to view and use the features
-
+**By default, one item is added to the list for demo purposes. This item will be automatically removed once a new element is added to the list. Click on the live GitHub page link to view and use the features of the Todo app built with JavaScript**.
 
 
 
